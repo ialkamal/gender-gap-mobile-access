@@ -7,4 +7,4 @@ This dataset located <a href="https://data.world/makeovermonday/2020w44">here</a
 As depicted in the figure above, we can come to a few conclusions:
 - Mobile access accross the world is male dominated.
 - Pakistan is the top country where males have dominant mobile access and by far.
-- Females in countries where they have dominant access are distributed accross the world with no visible pattern. 
+- Females in countries where they have dominant access are distributed across the world with no visible pattern. 
